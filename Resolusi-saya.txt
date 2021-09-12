@@ -2,3 +2,5 @@ Resolusi Saya
 - Latihan fullstack web
 - Kerja
 - Kuliah S2
+- Belajar data sience
+- Bikin project data sience
